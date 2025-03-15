@@ -7,7 +7,7 @@ from mistralai import Mistral
 from typing import List, Tuple
 
 # Initialize Mistral client
-api_key = "B5pIF3zkfMWyj3uk321xf3D1iBUwqUA6"
+api_key = "IbvRHlYdTTngK0y3ORTLYjGDUj56YzJM"
 client = Mistral(api_key=api_key)
 
 # Max token limit for Mistral (8k tokens)
